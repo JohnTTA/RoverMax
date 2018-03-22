@@ -1,3 +1,3 @@
-Alberto Pinalli
-Alexandre 
-John Barcos
+Alberto Pinalli;
+Alexandre;
+John Barcos;
